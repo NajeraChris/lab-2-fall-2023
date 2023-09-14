@@ -1,1 +1,1 @@
-# lab-2-fall-2023
+# Space Exploration News Article
