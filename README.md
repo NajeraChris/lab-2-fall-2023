@@ -1,5 +1,5 @@
 # Space Exploration News Article
 
-Here is my repository.
+Here is my website.
 
-[Link to repository](https://najerachris.github.io/lab-2-fall-2023/)
+[Link to website.](https://najerachris.github.io/lab-2-fall-2023/)
